@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9441366-59a3-4a8b-9dcb-d1517a36c65f" name="Changes" comment="Final commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mathutil/MathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mathutil/MathUtil.java" afterDir="false" />
-    </list>
+    <list default="true" id="b9441366-59a3-4a8b-9dcb-d1517a36c65f" name="Changes" comment="Commit changes to MathUtil.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +19,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -73,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668178202159</updated>
       <workItem from="1668178203903" duration="5219000" />
-      <workItem from="1668524858271" duration="4473000" />
+      <workItem from="1668524858271" duration="4792000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668178375402</created>
@@ -110,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668527831672</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit changes to MathUtil.java">
+      <created>1668529517834</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668529517834</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +135,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin1/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -184,7 +187,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Final commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
+    <MESSAGE value="Commit changes to MathUtil.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit changes to MathUtil.java" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
